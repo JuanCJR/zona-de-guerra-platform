@@ -1,0 +1,20 @@
+{
+  "name": "zona-de-guerra-platform",
+  "version": "1.0.0",
+  "description": "Repositorio principal de los modulos de zona de guerra",
+  "main": "index.js",
+  "scripts": {
+    "install-all": "./zona-de-guerra-backend npm i && ./zona-de-guerra-frontend npm i"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanCJR/zona-de-guerra-platform.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanCJR/zona-de-guerra-platform/issues"
+  },
+  "homepage": "https://github.com/JuanCJR/zona-de-guerra-platform#readme"
+}
