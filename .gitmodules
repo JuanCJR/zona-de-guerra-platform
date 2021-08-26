@@ -1,0 +1,6 @@
+[submodule "zona-de-guerra-frontend"]
+	path = zona-de-guerra-frontend
+	url = https://github.com/JuanCJR/zona-de-guerra-frontend.git
+[submodule "zona-de-guerra-backend"]
+	path = zona-de-guerra-backend
+	url = https://github.com/JuanCJR/zona-de-guerra-backend.git
